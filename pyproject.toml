@@ -11,7 +11,7 @@ requires = ["hatchling"]
 ################################################################################
 
 [project]
-name = "toy_py"
+name = "pyospackage-li0606"
 # You can chose to use dynamic versioning with hatch or static where you add it manually.
 version = "0.1.0"
 
@@ -36,11 +36,11 @@ keywords = []
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/JayLBean/toy-py"
-"Source Code" = "https://github.com/JayLBean/toy-py"
-"Bug Tracker" = "https://github.com/JayLBean/toy-py/issues"
-Documentation = "https://github.com/JayLBean/toy-py/blob/main/README.md"
-Download = "https://pypi.org/project/toy-py/#files"
+Homepage = "https://github.com/JayLBean/pyospackage-li0606"
+"Source Code" = "https://github.com/JayLBean/pyospackage-li0606"
+"Bug Tracker" = "https://github.com/JayLBean/pyospackage-li0606/issues"
+Documentation = "https://github.com/JayLBean/pyospackage-li0606/blob/main/README.md"
+Download = "https://pypi.org/project/pyospackage-li0606/#files"
 
 [project.optional-dependencies]
 # The groups below should be in the [development-groups] table
